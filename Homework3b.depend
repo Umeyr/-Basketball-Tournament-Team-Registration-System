@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1513631874 source:c:\users\yunus\desktop\homework3b\team.cpp
+	<string>
+	<iostream>
+	"Team.h"
+
+1513623545 c:\users\yunus\desktop\homework3b\team.h
+	<string>
+
+1513631759 source:c:\users\yunus\desktop\homework3b\testb.cpp
+	"BasketReg.h"
+	<string>
+	<strings.h>
+	<iostream>
+
+1513631874 source:c:\users\yunus\desktop\homework3b\basketreg.cpp
+	<string>
+	<iostream>
+	"BasketReg.h"
+
+1513593884 c:\users\yunus\desktop\homework3b\basketreg.h
+	<string>
+	"Team.h"
+
